@@ -453,10 +453,11 @@
 
 /*book*/
 
- /* .slider_form {
+ .slider_form {
   
   margin: -265px 0px 0px 110px;
   height: 260px;
+  width:  300px;	 
 }
 
 .slider_form form input {
@@ -468,34 +469,9 @@
 .slider_form form .btm_input {
   
   font-size: 14px;
-}*/
-
-.slider_form {
-  position: relative;
-  width: 445px;
-  padding: 25px;
-  border-radius: 10px;
-  margin: -265px 0px 0px 110px;
-  height: 260px;
-  background-color: transparent;
-  border: none;
 }
 
-.slider_form form input {
-  width: 100%;
-  height: 33px;
-  border: none;
-    border-bottom-color: currentcolor;
-    border-bottom-style: none;
-    border-bottom-width: medium;
-  outline: none;
-  margin-bottom: 10px;
-  padding-left: 10px;
-  font-size: 14px;
-  background-color: transparent;
-  border-bottom: 1px solid yellow;
-  color: white;
-}
+
 
 /*feature*/
 
